@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>Noel 2018 à USTARITZ</title>
+  </head>
+  <style>
+  body {
+  background: url('Noel.jpg');
+  background-size:100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  }
+  .spacer {
+  padding-top: 40px;
+  padding-bottom: 40px
+}
+
+</style>
+  <body>
+  <div class="container-fluid">
+    <script>
+var _0x359c=['Elsa','Carine','Odile','Jean-Marc','Clement','Catherine','getElementById','code_value','value','toLowerCase','trim','get','Erreur\x20Non\x20gérée','Code\x20inconnu','Bonjour\x20','alert','850364','630926','104638','478278','687456','427905','936198','set','Luc','Georges'];(function(_0x270099,_0x40b648){var _0x595c3f=function(_0x1a3f9f){while(--_0x1a3f9f){_0x270099['push'](_0x270099['shift']());}};_0x595c3f(++_0x40b648);}(_0x359c,0x148));var _0x2599=function(_0x318c7f,_0x11da74){_0x318c7f=_0x318c7f-0x0;var _0x1483b6=_0x359c[_0x318c7f];return _0x1483b6;};function showResult(){var _0x26da7d=new Map();var _0x37bc1b=new Map();var _0x97c909=_0x2599('0x0');var _0x39a302=_0x2599('0x1');var _0x5f568c=_0x2599('0x2');var _0x3dc2be=_0x2599('0x3');var _0x291734=_0x2599('0x4');var _0x258c21='965737';var _0x299adf=_0x2599('0x5');var _0x5ca562=_0x2599('0x6');_0x26da7d[_0x2599('0x7')](_0x97c909,_0x2599('0x8'));_0x37bc1b[_0x2599('0x7')](_0x97c909,_0x2599('0x9'));_0x26da7d[_0x2599('0x7')](_0x39a302,_0x2599('0xa'));_0x37bc1b[_0x2599('0x7')](_0x39a302,_0x2599('0xb'));_0x26da7d[_0x2599('0x7')](_0x3dc2be,_0x2599('0xc'));_0x37bc1b[_0x2599('0x7')](_0x3dc2be,_0x2599('0xd'));_0x26da7d[_0x2599('0x7')](_0x5f568c,_0x2599('0xe'));_0x37bc1b[_0x2599('0x7')](_0x5f568c,_0x2599('0xa'));_0x26da7d[_0x2599('0x7')](_0x258c21,_0x2599('0xb'));_0x37bc1b[_0x2599('0x7')](_0x258c21,_0x2599('0xf'));_0x26da7d[_0x2599('0x7')](_0x291734,_0x2599('0xd'));_0x37bc1b[_0x2599('0x7')](_0x291734,_0x2599('0x8'));_0x26da7d[_0x2599('0x7')](_0x299adf,_0x2599('0x9'));_0x37bc1b['set'](_0x299adf,_0x2599('0xe'));_0x26da7d[_0x2599('0x7')](_0x5ca562,_0x2599('0xf'));_0x37bc1b[_0x2599('0x7')](_0x5ca562,_0x2599('0xc'));var _0x311592=document[_0x2599('0x10')](_0x2599('0x11'))[_0x2599('0x12')][_0x2599('0x13')]()[_0x2599('0x14')]();var _0x2bf528=_0x26da7d['get'](_0x311592);var _0x231c35=_0x37bc1b[_0x2599('0x15')](_0x311592);var _0x36fb7c=_0x2599('0x16');if(_0x2bf528===undefined||_0x231c35===undefined){_0x36fb7c=_0x2599('0x17');}else{_0x36fb7c=_0x2599('0x18')+_0x2bf528+'\x0aTu\x20seras\x20l\x27heureux\x20père\x20Noel\x20de\x20'+_0x231c35;}window[_0x2599('0x19')](_0x36fb7c);}
+    </script>
+    
+    <div class="container center_div">
+    <div class="spacer"></div>
+    <h1>Noel 2018 à USTARITZ</h1>
+    <div class="spacer"></div>
+    <form class="form-inline">
+    <label for="Code" class="mr-sm-2">Quel est ton code:</label>
+    <input type="text" class="form-control mb-2 mr-sm-2" id="code_value">
+    <button type="submit" class="btn btn-primary mb-2" onclick="showResult()">Resultat...</button>
+    </form>
+    <div class="spacer"></div>
+    <div class="spacer"></div>
+    <div class="spacer"></div>
+    <div class="spacer"></div>
+    <p><h2>A ne pas manquer à Ustaritz...</h2></p>
+    <img src="eglise_small.jpg" alt="Responsive image" class="img-thumbnail">
+    <img src="fronton_small.jpg" alt="Responsive image" class="img-thumbnail">
+    <img src="maison_small.jpg" alt="Responsive image" class="img-thumbnail">
+    </div>    
+  
+    
+  </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>
